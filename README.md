@@ -1,12 +1,12 @@
 ## Hey, I'm Waseem
 
-I'm studying Information Systems Development at the University of Haifa, building my career in software through mobile apps, web development, and hands-on projects — including helping friends bring their ideas to life.
+I'm studying Information Systems Development at the University of Haifa, building my career in software through mobile apps, web development, and hands-on projects — including helping friends bring their ideas to life. One of those is **Misk**, a competitive Quran reading app I helped build using Next.js, Supabase, and Capacitor for iOS.
 
 But what really drives me is autonomous systems. I've been merging what I learn at university with my own research to build something I'm genuinely passionate about: a GPS-denied autonomous drone that navigates using satellite image matching and onboard AI. It started as curiosity, turned into a real engineering project, and now it's the thing I think about most.
 
 ### What I Work With
 
-**Apps & Web** — Mobile development, web applications, full-stack projects
+**Apps & Web** — Next.js, React, TypeScript, Supabase, Capacitor (iOS), Tailwind CSS
 
 **Embedded AI** — NVIDIA Jetson (CUDA, TensorRT, PyTorch), edge inference, real-time vision pipelines
 
